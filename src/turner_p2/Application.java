@@ -9,7 +9,7 @@ public class Application {
 
         if(duplicateCounter.count("problem2.txt")){
 
-            duplicateCounter.write("unique_words.txt");
+            duplicateCounter.write("unique_word_counts.txt");
         }
 
         }
